@@ -41,6 +41,4 @@ let rootOfSquare = (a, b, c) => {
      }
 }
 
-rootOfSquare(1,-3,10)
-
 
