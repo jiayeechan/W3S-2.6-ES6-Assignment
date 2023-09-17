@@ -1,15 +1,3 @@
-let num1 = 0
-let num2 = 0
-
-let results
-
-function add(num1, num2) {
-    return num1 + num2
-}
-
-const subtract = (num1, num2) => num1 - num2
-
-
 let rootOfSquare = (a, b, c) => {
     let discriminant = Math.pow(b,2) - 4 * a * c
     let root1 = 0
